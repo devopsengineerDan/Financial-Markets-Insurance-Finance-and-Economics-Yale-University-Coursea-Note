@@ -1,4 +1,9 @@
 # Financial-Markets-Yale-University-Coursea-Note
+
+YOUTUBE
+Financial Markets with Robert Shiller by Yale University 
+https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185
+
 My own note about Financial Market module at Yale University. The professor is Robert J.Shiller who won the ***Nobel Memorial Prize in Economics*** in 2013.
 
 - [Financial-Markets-Yale-University-Coursea-Note](#financial-markets-yale-university-coursea-note)
